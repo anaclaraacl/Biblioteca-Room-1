@@ -1,0 +1,1 @@
+Utilizando a biblioteca Room, crie uma aplicação que persista dados em um banco de dados local. Os dados representarão uma tabela Usuario com três colunas: id_usuario, nome e idade. Deverá inserir os dados e ter um método para ler os dados inseridos.
