@@ -1,4 +1,4 @@
-Este projeto envolve a criação de uma aplicação Android que utiliza a biblioteca Room para persistir dados em um banco de dados local. A aplicação gerenciará uma tabela denominada Usuario com três colunas: id_usuario, nome, e idade. As principais funcionalidades do projeto são:
+[Aula 01 | Android] Este projeto envolve a criação de uma aplicação Android que utiliza a biblioteca Room para persistir dados em um banco de dados local. A aplicação gerenciará uma tabela denominada Usuario com três colunas: id_usuario, nome, e idade. As principais funcionalidades do projeto são:
 
 Criação da Tabela Usuario: Defina a estrutura do banco de dados local utilizando a biblioteca Room. A tabela Usuario será composta pelas seguintes colunas:
 id_usuario: Identificador único do usuário.
